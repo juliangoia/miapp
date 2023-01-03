@@ -1,0 +1,6 @@
+.env
+
+# A este archivo lo creo para indicar que archivos se van a ignorar con respecto a los cambios que le hagamos. Esto es por ejemplo para 
+# configuraciones propias que tengamos y no queramos subirlas.
+
+# tambien podria colocar una ruta de una carpeta
